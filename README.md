@@ -28,8 +28,3 @@ General political discussion
 Controversial
 - MensRights (281k)
 - climateskeptics (29k)
-
-
-Idea: build a classifier to classify comments as being from a liberal or conservative subreddit. 
-- Try different methods for tokenization and dimensionality reduction (PCA, embeddings, autoencoders). 
-- Naive Bayes may work well with huge amounts of data
